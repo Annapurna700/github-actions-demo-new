@@ -1,2 +1,2 @@
-print("Hello from Annapurna, GitHub Actions!").
+print("Hello from Annapurna, GitHub Actions!")
 
